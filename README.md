@@ -13,7 +13,7 @@
 
 书：Database System Concepts
 
-课程：__CMU 15-445__
+课程：[__CMU 15-445__](https://github.com/sevenjoy007/LearnDatabase/tree/master/CMU15-445)
 
 > Prof. Andy Pavlo (http://www.cs.cmu.edu/~pavlo/)
 >
